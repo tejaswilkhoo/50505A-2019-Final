@@ -1,6 +1,5 @@
 # Sample-Robotics-Code
-This code was made by Tejas Wilkhoo and is written in C++.
-It uses the natural language of the programming software designed for Vex Robotics, called Vex Code.
+This code is written in C++ and uses the natural language of the programming software designed for Vex Robotics, called Vex Code.
 The code itself includes several algorithms, including a fine-tuned acceleration algorithm, and other movement features (void move).
 It also includes what we call is integer programming,
 By setting the controller buttons to type in different integers, we are able to make the robot move in a variety of ways easily.
